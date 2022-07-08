@@ -1,4 +1,4 @@
-# test001
-im main
-## 練習用特にpush pull
-sub1huhuhu
+# Git勉強用の練習リポジトリ
+とりあえずpush pullをやってみたかったので作成
+複数のbranchをいじくってマージやらなんやら
+プルリクエストって何なんだ
